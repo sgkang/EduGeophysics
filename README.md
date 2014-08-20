@@ -1,5 +1,5 @@
-GeoEdu
-========
+EduGeophysics
+=============
 
 Materials for Geophysics Educations
 
